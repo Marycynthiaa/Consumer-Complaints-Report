@@ -39,7 +39,7 @@ The year **2023** saw a sharp surge in consumer complaints received by the compa
 <img width="247" height="154" alt="year trend" src="https://github.com/user-attachments/assets/415f5b56-6ba5-403f-8ac7-f083a3646798" />
 
 ### Recommendations
-- Improve Customer Onboarding and Account Management Processes then streamline the procedures for opening and closing accounts to reduce friction and miscommunication.
+- Improve customer onboarding and Account management processes then streamline the procedures for opening and closing accounts to reduce friction and miscommunication.
 
 - **Enhance Transparency Around Fees and Charges:**  Review and simplify fee structures for savings, checking, and credit card products by ensuring all charges (e.g., overdraft fees, interest, third-party transactions) are clearly disclosed and easy to understand.
 
@@ -56,7 +56,7 @@ This added visual layer improved the dashboard’s readability and helped for ea
 
 **Excel:** Every process of the data analysis process from data cleaning to visualization was done in excel, download report [here]()
 
-[Back To Top](#project_background)
+[Back To Top](#project-background)
 
 
 
