@@ -54,7 +54,7 @@ This added visual layer improved the dashboard’s readability and helped for ea
 
 <img width="71" height="271" alt="icon navigation" src="https://github.com/user-attachments/assets/f373a1a5-dee6-4243-9eab-e34c810f0b5a" />
 
-**Excel:** Every process of the data analysis process from data cleaning to visualization was done in excel, download report [here]()
+**Excel:** Every process of the data analysis process from data cleaning to visualization was done in excel, download report [here](https://github.com/Marycynthiaa/Consumer-Complaints-Report/blob/main/Consumer%20Complaints%20Report.xlsx)
 
 [Back To Top](#project-background)
 
